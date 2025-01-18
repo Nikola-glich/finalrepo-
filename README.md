@@ -1,1 +1,3 @@
 # finalrepo-
+
+brat naprawih promqna
